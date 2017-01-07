@@ -42,7 +42,7 @@ in a ``.sublime-commands`` item:
 How to Use the Command Palette
 ==============================
 
-#. Press :kbd:`Ctrl+Shift+P`
+#. Press :kbd:`Ctrl+Shift+P' (or :kbd:`Command+Shift+P on a Mac)
 #. Select command
 
 Entries are filtered by current context. Not all entries will be visible at all
